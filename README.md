@@ -1,5 +1,5 @@
 # Uhuru
-Aplicación de Escritorio para gestión y práctica de exámenes de certificación.
+Proyecto Universitario. Aplicación de Escritorio para gestión y práctica de exámenes de certificación.
 
 
 ## Integrantes
